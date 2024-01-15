@@ -16,11 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-
-Proyecto Flutter
 Este es un proyecto simple en Flutter que representa una interfaz con cinco rectángulos de diferentes colores y disposiciones. Cada rectángulo contiene elementos específicos, como texto y formas geométricas, siguiendo un diseño predefinido.
 
-Descripción
 El proyecto utiliza Flutter, un framework de desarrollo de aplicaciones móviles de código abierto. En la aplicación, se definen cinco rectángulos con contenido diverso, como texto, cuadrados y rectángulos, cada uno con un color diferente. Estos rectángulos están organizados verticalmente en la pantalla y se utilizan varios widgets de Flutter para lograr la disposición y estilo deseados.
 
 ![](../ruiz_idigoras_e01/img/foto1.png)
